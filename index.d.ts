@@ -1,2 +1,2 @@
-declare const domains: string[];
-export default domains;
+declare const academicTLDs: string[];
+export default academicTLDs;

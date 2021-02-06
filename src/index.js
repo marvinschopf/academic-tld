@@ -1,4 +1,4 @@
-const domains = [
+const academicTLDs = [
 	"ac.ae",
 	"ac.at",
 	"ac.bd",
