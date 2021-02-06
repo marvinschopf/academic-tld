@@ -2,6 +2,7 @@
   "name": "academic-tld",
   "version": "1.0.0",
   "main": "src/index.js",
+  "types": "index.d.ts",
   "repository": "https://github.com/marvinschopf/academic-tld",
   "author": {
     "name": "Marvin Schopf",

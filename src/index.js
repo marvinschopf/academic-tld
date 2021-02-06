@@ -1,4 +1,4 @@
-module.exports = [
+const domains = [
 	"ac.ae",
 	"ac.at",
 	"ac.bd",
@@ -242,3 +242,4 @@ module.exports = [
 	"tec.wv.us",
 	"vic.edu.au",
 ];
+export default domains;
