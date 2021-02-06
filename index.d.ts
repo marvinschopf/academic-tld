@@ -1,2 +1,2 @@
-declare const domains: Array<string>;
+declare const domains: string[];
 export default domains;
