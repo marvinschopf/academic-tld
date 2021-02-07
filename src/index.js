@@ -268,4 +268,4 @@ const academicTLDs = [
 	"tec.wv.us",
 	"vic.edu.au",
 ];
-export default domains;
+module.exports = academicTLDs;
